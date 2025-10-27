@@ -1,5 +1,5 @@
-streamlit
-tensorflow-macos
-tensorflow-metal
-pillow
-numpy
+tensorflow==2.15.0
+keras==2.15.0
+streamlit==1.39.0
+numpy==1.26.4
+Pillow==10.4.0
